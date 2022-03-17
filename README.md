@@ -1,2 +1,2 @@
-# configuration-server
-Demo SpringBoot configuration server
+# microservice-config-server
+Demo SpringBoot microservice config server
